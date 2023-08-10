@@ -1,0 +1,10 @@
+C:\Users\sujith.r\source\repos\TEST_APP\bin\Release\TEST_APP.exe.config
+C:\Users\sujith.r\source\repos\TEST_APP\bin\Release\TEST_APP.exe
+C:\Users\sujith.r\source\repos\TEST_APP\bin\Release\TEST_APP.pdb
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.Form1.resources
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.Properties.Resources.resources
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.csproj.GenerateResource.cache
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.csproj.CoreCompileInputs.cache
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.exe
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.pdb
+C:\Users\sujith.r\source\repos\TEST_APP\obj\Release\TEST_APP.csproj.AssemblyReference.cache
